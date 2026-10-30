@@ -1,0 +1,4 @@
+vet_clinic.db
+__pycache__/
+*.pyc
+.vscode/
